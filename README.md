@@ -16,6 +16,7 @@ Rock Paper Scissors game in Python with computer-generated moves and winner dete
         Adding hand detector on camera
         cheaking
 
- 
-
-
+ ## Day 3 :
+         added player fingers moves
+         added AI pictures and set it on Back Ground Image (pending)
+         logic concept is added  (pending)
