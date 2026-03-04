@@ -47,7 +47,7 @@ Welcome to **ApxifyTechnology-Rock-Paper-Scissor-Game**, a computer vision-based
   <img src="screenshots/4.jpeg" width="30%" />
   <img src="screenshots/5.jpeg" width="30%" />
   <img src="screenshots/6.jpeg" width="30%" />
-</div>
+</div> 
 
 ---
 
@@ -116,4 +116,4 @@ Check out the gameplay video on YouTube:
 
 ---
 
-Enjoy the game! 🎮
+Enjoy the game!  🎮
