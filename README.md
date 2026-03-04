@@ -17,6 +17,16 @@ Rock Paper Scissors game in Python with computer-generated moves and winner dete
         cheaking
 
  ## Day 3 :
-         added player fingers moves
+          define what the player shows
          added AI pictures and set it on Back Ground Image (pending)
          logic concept is added  (pending)
+
+ ## Day 4 :
+         Added AI pictures and set on BackGround image (Completed)
+         aworking on game logic (completed)
+         added AI moves 
+         added game rules 
+         added scores 
+         complete the game code 
+
+         optimization (Pending)
