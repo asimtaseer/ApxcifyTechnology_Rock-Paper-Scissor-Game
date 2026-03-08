@@ -30,3 +30,10 @@ Rock Paper Scissors game in Python with computer-generated moves and winner dete
          complete the game code 
 
          optimization (Pending)
+
+ ## Day 5 :
+          optimization
+          making vedios 
+          Testings
+          Cleaning the code
+          Making understandable 
