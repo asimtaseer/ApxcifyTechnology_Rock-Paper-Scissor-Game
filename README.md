@@ -75,7 +75,10 @@ Welcome to **ApxifyTechnology-Rock-Paper-Scissor-Game**, a computer vision-based
 
 ## Video Demo
 Check out the gameplay video on YouTube:
-(pending)
+## 🎥 Video Demo  
+Check out the gameplay video on YouTube:
+
+[![Watch the gameplay video](https://img.youtube.com/vi/wMDyPJY8hQA/hqdefault.jpg)](https://www.youtube.com/watch?v=wMDyPJY8hQA)
 
 ---
 
