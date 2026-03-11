@@ -37,3 +37,8 @@ Rock Paper Scissors game in Python with computer-generated moves and winner dete
           Testings
           Cleaning the code
           Making understandable 
+
+ ## Day 6 :
+          Testings
+          Added vedio
+          updated readme
